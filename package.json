@@ -1,0 +1,19 @@
+{
+  "name": "telegram-chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrostShadow6/Telegram-chatgpt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrostShadow6/Telegram-chatgpt/issues"
+  },
+  "homepage": "https://github.com/FrostShadow6/Telegram-chatgpt#readme"
+}
